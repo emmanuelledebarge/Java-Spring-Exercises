@@ -1,3 +1,3 @@
 # Java-Spring-Exercises
 
-This project consists of mini-projects or exercises that I have worked on to build my programming knowledge and expertise.
+This project creates and updates a story based off of user input. The user can go to different parts of the story and the information will be updated across all pages.
